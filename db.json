@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "id": 847,
+      "text": "Visit the Army camp",
+      "day": "29/04/2022",
+      "time": "14:06:21",
+      "reminder": true
+    },
+    {
+      "id": 940,
+      "text": "Hike Mt. Nikel",
+      "day": "29/04/2022",
+      "time": "14:06:40",
+      "reminder": true
+    },
+    {
+      "id": 117,
+      "text": "Play Chess",
+      "day": "29/04/2022",
+      "time": "14:06:58",
+      "reminder": true
+    },
+    {
+      "id": 723,
+      "text": "Road Test ",
+      "day": "29/04/2022",
+      "time": "14:07:21",
+      "reminder": true
+    }
+  ]
+}
