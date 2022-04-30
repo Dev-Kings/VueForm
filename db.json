@@ -18,20 +18,6 @@
   },
   "tasks": [
     {
-      "id": 847,
-      "text": "Visit the Army camp",
-      "day": "29/04/2022",
-      "time": "14:06:21",
-      "reminder": true
-    },
-    {
-      "id": 940,
-      "text": "Hike Mt. Nikel",
-      "day": "29/04/2022",
-      "time": "14:06:40",
-      "reminder": true
-    },
-    {
       "id": 117,
       "text": "Play Chess",
       "day": "29/04/2022",
@@ -44,6 +30,27 @@
       "day": "29/04/2022",
       "time": "14:07:21",
       "reminder": true
+    },
+    {
+      "text": "Code Code Code",
+      "day": "29/04/2022",
+      "time": "14:33:58",
+      "reminder": true,
+      "id": 941
+    },
+    {
+      "text": "Learn MERN Application",
+      "day": "29/04/2022",
+      "time": "14:45:24",
+      "reminder": true,
+      "id": 942
+    },
+    {
+      "text": "Walk",
+      "day": "29/04/2022",
+      "time": "18:00:04",
+      "reminder": true,
+      "id": 943
     }
   ]
 }
