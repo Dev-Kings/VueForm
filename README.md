@@ -1,19 +1,8 @@
-# vue-crash-2022
+# VueForm
+A form validated with VueJs.
 
-## Project setup
-```
-npm install
-```
+Data is stored locally in .json format.(db.json)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Feel free to Add Task(s)!
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![taskTracker](https://user-images.githubusercontent.com/31953762/165933479-b6915d92-2fb2-4ff1-aede-d779332c8bfb.PNG)
